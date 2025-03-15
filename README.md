@@ -107,7 +107,7 @@ Acesso efetuado em Sat Mar 15 2025 19:41:39 GMT-0300
 Acesso efetuado em Sat Mar 15 2025 19:41:40 GMT-0300
 Acesso efetuado em Sat Mar 15 2025 19:45:59 GMT-0300
 
-![Captura de tela](screenshot.png)
+
 
 
 
