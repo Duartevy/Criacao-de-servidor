@@ -107,7 +107,8 @@ Acesso efetuado em Sat Mar 15 2025 19:41:39 GMT-0300
 Acesso efetuado em Sat Mar 15 2025 19:41:40 GMT-0300
 Acesso efetuado em Sat Mar 15 2025 19:45:59 GMT-0300
 
-"C:\Users\duart\OneDrive\Documentos\Meus Projetos pessoais\Projetos faculdade\Criacao-de-servidor\screenshot.png"
+
+![screenshot](https://github.com/user-attachments/assets/a61b9c42-c1fb-451c-8521-e1be2c63618f)
 
 
 
