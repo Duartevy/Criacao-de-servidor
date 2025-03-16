@@ -33,7 +33,6 @@ node -v
 ## 2️⃣ Crie e configure o projeto
 
 ### 🔹 Crie um diretório e entre nele:
-```sh
 mkdir servidor-node
 cd servidor-node
 🔹 Inicie um projeto Node.js:
