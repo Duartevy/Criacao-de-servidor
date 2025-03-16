@@ -65,7 +65,8 @@ console.log("Servidor executando na porta 3000");
 3️⃣ Rodar o servidor
 No terminal, execute:
 node index.js
-   Se tudo estiver correto, verá a mensagem:
+
+Se tudo estiver correto, verá a mensagem:
 Servidor executando na porta 3000
 
 
