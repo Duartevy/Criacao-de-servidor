@@ -37,27 +37,12 @@ node -v
 mkdir servidor-node
 cd servidor-node
 🔹 Inicie um projeto Node.js:
-sh
-Copiar
-Editar
 npm init -y
-Isso criará o arquivo package.json, que gerencia as configurações do projeto.
+   Isso criará o arquivo package.json, que gerencia as configurações do projeto.
 
-🔹 Crie o arquivo index.js:
-sh
-Copiar
-Editar
-touch index.js
-Ou, se estiver no Windows:
-
-sh
-Copiar
-Editar
-echo. > index.js
-🔹 Abra o arquivo index.js e adicione o código abaixo:
-js
-Copiar
-Editar
+🔹 Crie o arquivo index.js
+----------------------------------------------------------------------------------------
+Adicione o código no arquivo:
 const http = require("http");
 const os = require("os");
 const fs = require("fs");
@@ -80,29 +65,19 @@ http.createServer((req, res) => {
 console.log("Servidor executando na porta 3000");
 3️⃣ Rodar o servidor
 No terminal, execute:
-
-sh
-Copiar
-Editar
 node index.js
-Se tudo estiver correto, verá a mensagem:
-
-yaml
-Copiar
-Editar
+   Se tudo estiver correto, verá a mensagem:
 Servidor executando na porta 3000
+
+
+----------------------------------------------------------------------------------------
 Agora, acesse no navegador:
 
-arduino
-Copiar
-Editar
 http://localhost:3000
+
 📜 Exemplo de Log Gerado (log.txt)
 Cada vez que o servidor recebe uma requisição, ele adiciona uma linha ao arquivo log.txt:
 
-less
-Copiar
-Editar
 Acesso efetuado em Sat Mar 15 2025 19:41:39 GMT-0300
 Acesso efetuado em Sat Mar 15 2025 19:41:40 GMT-0300
 Acesso efetuado em Sat Mar 15 2025 19:45:59 GMT-0300
